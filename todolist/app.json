@@ -1,0 +1,29 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "level": "small"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "level": "medium"
+    },
+    {
+      "id": 3,
+      "name": "JS",
+      "level": "high"
+    },
+    {
+      "name": "ReactJS",
+      "level": "small",
+      "id": 4
+    },
+    {
+      "name": "NodeJS",
+      "level": "high",
+      "id": 6
+    }
+  ]
+}
